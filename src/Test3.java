@@ -1,9 +1,8 @@
-public class Test {
+public class Test3 {
     public static void main(String[] args) {
         System.out.println("Release");
-        for (int i = 0; i < 10; i++) {
+        for (int i = 3; i < 10; i++) {
             System.out.println(i);
-            System.out.println("Great work");
         }
     }
 }
